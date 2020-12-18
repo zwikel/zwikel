@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+Checkout my links:  <br/>
+- [Personal Website](https://zacharywikel.me/) <br/>
+- [LinkedIn](https://www.linkedin.com/in/zachary-wikel/) <br/>
 
 <!--
 **zwikel/zwikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
