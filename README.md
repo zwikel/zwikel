@@ -1,7 +1,9 @@
-## Hi there 👋
-Checkout my links:  <br/>
-- [Personal Website](https://zacharywikel.me/) <br/>
-- [LinkedIn](https://www.linkedin.com/in/zachary-wikel/) <br/>
+### Hi there 👋
+- :school: Colorado State University
+- :medal_military: Army Veteran
+- :computer: [Website](https://zacharywikel.me/)
+- :link: [LinkedIn](https://www.linkedin.com/in/zachary-wikel/)
+- :email: [Email](mailto:zacharywikel@gmail.com)
 
 <!--
 **zwikel/zwikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
