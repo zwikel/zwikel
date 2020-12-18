@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋 I'm Zach!
 - :school: Colorado State University
 - :medal_military: Army Veteran
 - :computer: [Website](https://zacharywikel.me/)
