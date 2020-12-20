@@ -1,10 +1,15 @@
 ## Hi There 👋 I'm Zachary Wikel!
+
 ### I'm:
 - :school: Graduating from Colorado State University in May 2021
 - :man_student: Majoring in computer science with a minor in mathematics
 - :office: Eager to find a team to work with and see what we can create
 - :medal_military: A U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
-- :runner: Training to run an ultramarathon in my free time
+
+### In my free time you can find me:
+- :hiking_boot: Conquering fourteeners
+- :runner: Finding the best trails to run
+- :video_game: Playing computer and switch games
 
 ### My links:
 - :email: Get in touch via [email](mailto:zacharywikel@gmail.com)
