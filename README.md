@@ -22,6 +22,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white" />
+  <img alt="wireshark" src="https://img.shields.io/badge/-Wireshark-gray?style=flat&logo=wireshark&logoColor=white" />
+  <img alt="idea" src="https://img.shields.io/badge/-IDEA-mediumvioletred?style=flat&logo=intellij-idea&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/-VS_Code-skyblue?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white" />
-  <img alt="windows" src="https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white" />
+  <img alt="windows" src="https://img.shields.io/badge/-Windows-steelblue?style=flat&logo=windows&logoColor=white" />
 </p>
