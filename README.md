@@ -26,13 +26,13 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-orangered?style=flat&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white" />
+  <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-sienna?style=flat&logo=mariadb&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="node" src="https://img.shields.io/badge/-Node-43853d?style=flat&logo=Node.js&logoColor=white" />
-  <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-sienna?style=flat&logo=mariadb&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-crimson?style=flat&logo=jest&logoColor=white" />
   <img alt="travis_ci" src="https://img.shields.io/badge/-Travis_CI-peru?style=flat&logo=travis-ci&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="code_climate" src="https://img.shields.io/badge/-Code_Climate-slategray?style=flat&logo=code-climate&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white" />
   <img alt="wireshark" src="https://img.shields.io/badge/-Wireshark-gray?style=flat&logo=wireshark&logoColor=white" />
