@@ -1,17 +1,18 @@
-### Hi There 👋 I'm Zachary Wikel!
+## Hi There 👋 I'm Zachary Wikel!
+### I'm:
 - :school: Graduating from Colorado State University in May 2021
 - :man_student: Majoring in computer science with a minor in mathematics
 - :office: Eager to find a team to work with and see what we can create
-- :medal_military: U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
+- :medal_military: A U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
 - :runner: Training to run an ultramarathon in my free time
 
-### My Links
+### My links:
 - :email: Get in touch via [email](mailto:zacharywikel@gmail.com)
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/zachary-wikel/)
 - :computer: Check out my personal [website](https://zacharywikel.me/)
 
 
-### Some Things I Program With
+### Some languages, technologies, and tools I use:
 <p>
   <img alt="c" src="https://img.shields.io/badge/-C-darkslateblue?style=flat&logo=c&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-dodgerblue?style=flat&logo=c%2B%2B&logoColor=white" />
