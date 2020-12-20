@@ -38,6 +38,7 @@
   <img alt="wireshark" src="https://img.shields.io/badge/-Wireshark-gray?style=flat&logo=wireshark&logoColor=white" />
   <img alt="idea" src="https://img.shields.io/badge/-IDEA-mediumvioletred?style=flat&logo=intellij-idea&logoColor=white" />
   <img alt="vs_code" src="https://img.shields.io/badge/-VS_Code-deepskyblue?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="slack" src="https://img.shields.io/badge/-Slack-seagreen?style=flat&logo=slack&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/-Windows-steelblue?style=flat&logo=windows&logoColor=white" />
 </p>
