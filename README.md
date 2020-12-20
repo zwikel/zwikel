@@ -1,5 +1,5 @@
 ### Hi There 👋 I'm Zachary Wikel!
-- :school: Graduting from Colorado State University in May 2021
+- :school: Graduating from Colorado State University in May 2021
 - :man_student: Majoring in computer science with a minor in mathematics
 - :office: Eager to find a team to work with and see what we can create
 - :medal_military: U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
