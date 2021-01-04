@@ -26,7 +26,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-orangered?style=flat&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white" />
-  <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-sienna?style=flat&logo=mariadb&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-sienna?style=flat&logo=mysql&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="node" src="https://img.shields.io/badge/-Node-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-crimson?style=flat&logo=jest&logoColor=white" />
