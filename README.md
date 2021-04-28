@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zachary Wikel!
+## Hi there 👋 I'm Zach!
 
 ### I'm:
 - :school: Graduating from Colorado State University in May 2021
