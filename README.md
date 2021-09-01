@@ -2,12 +2,12 @@
 
 ### I'm:
 - :office: Currently a Software Engineer at [Numerica Corporation](https://www.numerica.us/)
-- :school: A Colorado State University alumnus
-- :medal_military: A U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
+- :school: A Colorado State University alumnus with a BS in Computer Science
+- :medal_military: A six year U.S. Army veteran where I piloted this [aircraft](https://www.ga-asi.com/remotely-piloted-aircraft/gray-eagle)
 
 ### In my free time you can find me:
-- :hiking_boot: Conquering fourteeners
 - :runner: Finding the best trails to run
+- :hiking_boot: Conquering fourteeners
 - :video_game: Playing videogames
 
 ### My links:
